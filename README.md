@@ -1,2 +1,2 @@
 # terraformpipeline
-To create CI CD Pipeline
+To create CI CD Basic Pipeline
